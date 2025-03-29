@@ -1,7 +1,8 @@
 # 1D-Pong
 ![Bild 1D-PongMAX](https://raw.githubusercontent.com/c3re/1D-Pong/refs/heads/main/1DPongMax.jpg)
+Die große Version 1D Pong Max 
 ## Idee
-Die Idee ein eigenes 1D Pong spiel zu bauen kam uns auf den letztjährigem Kongress als wir das 1D Pong von **Platzhalter** gesehen hatten. Befanden wir für nachbauenswert und dies führte zu diesem 1D Pong.
+Die Idee ein eigenes 1D Pong spiel zu bauen kam uns auf den letztjährigem Kongress als wir das 1D Pong von **Platzhalter** gesehen hatten. Befanden wir für nachbauenswert und dies führte zu diesem 1D Pong. Es gibt einmal die Große Version 1D Pong Max und eine kleine einfachere Version namens 1D Pong Mini aus einem Kabelkanal gebaut. 
 ## Materialien
 ### Grundspiel
 
@@ -19,8 +20,11 @@ Die Idee ein eigenes 1D Pong spiel zu bauen kam uns auf den letztjährigem Kongr
 - 1 Wemos D1 mit [WLED](https://kno.wled.ge/)
 
 ## Gehäuse
-Unser Gehause wurde aus 9mm PVC beschichteten Multiplex Material CNC gefräßt,
+#### 1D Pong Max
+Das Gehause für das große Spiel 1D Pong Max wurde aus 9mm PVC beschichteten Multiplex Material CNC gefräßt,
 die Seiten sind aus 12mm Multiplex gefertigt, Dazu ist eine Plexiglas Scheibe in dem Boden eingelassen.
+#### 1D Pong Mini
+WIP
 
 #### Zeichnungen
 folgen
