@@ -1,5 +1,5 @@
 # 1D-Pong
-https://raw.githubusercontent.com/c3re/1D-Pong/refs/heads/main/1DPongMax.jpg
+![Bild 1D-PongMAX](https://raw.githubusercontent.com/c3re/1D-Pong/refs/heads/main/1DPongMax.jpg)
 ## Idee
 Die Idee ein eigenes 1D Pong spiel zu bauen kam uns auf den letztjährigem Kongress als wir das 1D Pong von **Platzhalter** gesehen hatten. Befanden wir für nachbauenswert und dies führte zu diesem 1D Pong.
 ## Materialien
