@@ -8,33 +8,33 @@ Die Idee, ein eigenes 1D-Pong-Spiel zu bauen, kam uns auf dem letztjährigen Kon
 ## Materialien  
 
 ### Grundspiel  
-- 42 × 3D-gedruckte Diffusorkäppchen aus transluzentem PLA für das Spielfeld  
-- 72 × 5mm WS2812-LEDs  
-  - 42 Stück für das Spielfeld  
-  - je 15 Stück für die Punkteanzeigen  
-- 2 × 24mm Arcade-Buttons  
-  - Ähnlich wie diese: [Amazon-Link](https://www.amazon.de/EG-STARTS-LED-Farbdrucktaste-Mikroschalter-Arcade-Maschine/dp/B01N78D6OI/262-2377835-9090858)  
-- 1 × Arduino Nano  
-- 2 × Piezo-Beeper  
+
+| Komponente               | Menge | Beschreibung |
+|--------------------------|-------|-------------|
+| 3D-gedruckte Diffusorkäppchen | 42  | Aus transluzentem PLA |
+| 5mm WS2812-LEDs         | 72    | 42 für das Spielfeld, je 15 für Punkteanzeigen |
+| Arcade-Buttons (24mm)   | 2     | [Amazon-Link](https://www.amazon.de/EG-STARTS-LED-Farbdrucktaste-Mikroschalter-Arcade-Maschine/dp/B01N78D6OI/262-2377835-9090858) |
+| Arduino Nano            | 1     | Mikrocontroller |
+| Piezo-Beeper           | 2     | Sound-Effekte |
+ 
 
 ### Unterbodenbeleuchtung  
 - 1 Meter WS2812-RGB-LED-Streifen  
 - 1 × Wemos D1 mit [WLED](https://kno.wled.ge/)  
 
-## Gehäuse  
+## Bauweise
+### Gehäuse  
+### 1D Pong Max
 
-### 1D Pong Max  
 Das Gehäuse für die große Version **1D Pong Max** wurde aus 9mm PVC-beschichtetem Multiplex-Material CNC-gefräst. Die Seiten bestehen aus 12mm Multiplex, zudem ist eine Plexiglasscheibe in den Boden eingelassen.  
+### 1D Pong Mini 
 
-### 1D Pong Mini  
 **WIP** (Work in Progress)  
 
-### Zeichnungen  
-**Folgen**  
-_Work in Progress_  
+## Zeichnungen 📝 (To-Do)  
+Noch in Arbeit. Wird bald hinzugefügt.  
 
-### Schaltung  
-_Work in Progress_  
+## Schaltung ⚡ (To-Do)  
+Schaltplan folgt bald.  
 
-### Software  
-_Work in Progress_  
+## Software 💻 (To-Do)
