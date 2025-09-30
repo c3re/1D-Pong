@@ -3,7 +3,7 @@
 Die große Version: **1D Pong Max**  
 
 ## Idee  
-Die Idee, ein eigenes 1D-Pong-Spiel zu bauen, kam uns auf dem letztjährigen Kongress, als wir das 1D-Pong von **Platzhalter** gesehen haben. Es gibt eine große Version namens **1D Pong Max** sowie eine kleinere, einfachere Version namens **1D Pong Mini**, die aus einem Kabelkanal gebaut wurde.  
+Die Idee, ein eigenes 1D-Pong-Spiel zu bauen, kam uns auf dem letztjährigen Kongress, als wir das 1D-Pong von  Pixtxa gesehen haben. Es gibt eine große Version namens **1D Pong Max** sowie eine kleinere, einfachere Version namens **1D Pong Mini**, die aus einem Kabelkanal gebaut wurde.  
 
 ## Materialien  
 
